@@ -9,6 +9,7 @@ Source0:	http://ftp.gnome.org/pub/GNOME/teams/art.gnome.org/themes/metacity/MCit
 # Source0-md5:	ff1d06be187d566a1e62d6c74fd28249
 URL:		http://art.gnome.org/
 Requires:	metacity
+Conflicts:	metacity-theme-Bluecurve-redhat
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
