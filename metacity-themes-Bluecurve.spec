@@ -25,13 +25,12 @@ Motyw Bluecurve dla metacity.
 %install
 rm -rf $RPM_BUILD_ROOT
 
-install -d $RPM_BUILD_ROOT%{_datadir}/themes/metacity
-install -d $RPM_BUILD_ROOT%{_datadir}/themes/metacity/Bluecurve
-cp -r metacity-1/* $RPM_BUILD_ROOT%{_datadir}/themes/metacity/Bluecurve
+install -d $RPM_BUILD_ROOT%{_datadir}/themes/Bluecurve
+cp -r metacity-1 $RPM_BUILD_ROOT%{_datadir}/themes/Bluecurve
 
 %clean
 rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
-%{_datadir}/themes/metacity/Bluecurve/*
+%{_datadir}/themes/Bluecurve/metacity-1
