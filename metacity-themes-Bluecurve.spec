@@ -2,9 +2,9 @@ Summary:	Bluecurve theme
 Summary(pl):	Motyw Bluecurve
 Name:		metacity-themes-Bluecurve
 Version:	1.0
-Release:	2
+Release:	3
 License:	GPL
-Group:		Themes/Gtk
+Group:		Themes/GTK+
 Source0:	http://ftp.gnome.org/pub/GNOME/teams/art.gnome.org/themes/metacity/MCity-Bluecurve.tar.bz2
 # Source0-md5:	ff1d06be187d566a1e62d6c74fd28249
 URL:		http://art.gnome.org/
