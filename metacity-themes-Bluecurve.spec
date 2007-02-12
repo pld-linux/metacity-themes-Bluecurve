@@ -1,5 +1,5 @@
 Summary:	Bluecurve theme
-Summary(pl):	Motyw Bluecurve
+Summary(pl.UTF-8):   Motyw Bluecurve
 Name:		metacity-themes-Bluecurve
 Version:	1.0
 Release:	3
@@ -15,7 +15,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Bluecurve theme for metacity.
 
-%description -l pl
+%description -l pl.UTF-8
 Motyw Bluecurve dla metacity.
 
 %prep
