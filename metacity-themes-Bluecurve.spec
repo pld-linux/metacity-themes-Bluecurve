@@ -1,5 +1,5 @@
 Summary:	Bluecurve theme
-Summary(pl.UTF-8):   Motyw Bluecurve
+Summary(pl.UTF-8):	Motyw Bluecurve
 Name:		metacity-themes-Bluecurve
 Version:	1.0
 Release:	3
